@@ -18,7 +18,7 @@
 <h3 align="center">Spring Mvc Employee Directory</h3>
 
   <p align="center">
-    project_description
+    Spring Mvc Employee Directory
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
