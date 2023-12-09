@@ -1,5 +1,4 @@
 # spring-mvc
-**Spring Mvc Employee Directory**
 
 <a name="readme-top"></a>
 
