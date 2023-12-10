@@ -19,7 +19,7 @@
   <p align="center">
     Spring Mvc Employee Directory
     <br />
-    <a href="(https://github.com/refikorkunarslan/spring-mvc/blob/main/report.pdf)"><strong>Explore the docs »</strong></a>
+      <a href="https://github.com/refikorkunarslan/spring-mvc/report.pdf"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/github_username/repo_name">View Demo</a>
